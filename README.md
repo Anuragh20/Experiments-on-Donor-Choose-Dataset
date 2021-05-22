@@ -13,7 +13,7 @@ Contents:
     a. Evaluation of the Performance of the Naïve Bayes Algorithm on the Donors Choose dataset on two sets of data with Set 1: Use of CountVectorizer to vectorize the columns   with Text data Vs Set 2: Use of TFIDF Vectorizer to vectorize the columns with Text data
 
 2.	 FILE 2: Decision Trees Performance (TFIDF vs TFIDF W2V)
-    
+
     a. Evaluation of the Performance of Decision Tree Classifier on the Donors Choose dataset on two sets of data with Set 1: Use of TFIDF Vectorizer to vectorize the columns with  Text data Vs Set 2: Use of TFIDF W2V Vectorizer to vectorize the columns with Text data
 
 3.	File 3: SMOTE, TSNE, Xgboost on Donor Choose Dataset
