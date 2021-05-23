@@ -2,12 +2,15 @@
 Evaluation of Various Techniques and ML Algorithms on Donor Choose Dataset
 
 **Summary:**
+
 This folder contains various experiments undertaken on the Donor Choose Dataset in order to understand numerous data science techniques and the performance of multiple algorithms.
 
 **Objective of the Activity:**
+
 To get a better understanding of various Machine Learning Algorithms.
 
-Contents:
+**Contents:**
+
 1.	FILE 1: Performance of NB (CountVec vs TFIDF)
     
     a. Evaluation of the Performance of the Naïve Bayes Algorithm on the Donors Choose dataset on two sets of data with Set 1: Use of CountVectorizer to vectorize the columns   with Text data Vs Set 2: Use of TFIDF Vectorizer to vectorize the columns with Text data
